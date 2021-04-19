@@ -1,0 +1,3 @@
+[submodule "Fullstack-on-ElasticBeanstalk"]
+	path = Fullstack-on-ElasticBeanstalk
+	url = https://github.com/eedygreen/Full-Stack-Apps-in-AWS
