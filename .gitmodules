@@ -1,3 +1,6 @@
 [submodule "Fullstack-on-ElasticBeanstalk"]
 	path = Fullstack-on-ElasticBeanstalk
 	url = https://github.com/eedygreen/Full-Stack-Apps-in-AWS
+[submodule "Monolith-Microservices"]
+	path = Monolith-Microservices
+	url = https://github.com/eedygreen/Monolith-Microservices.git
