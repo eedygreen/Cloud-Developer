@@ -4,3 +4,6 @@
 [submodule "Monolith-Microservices"]
 	path = Monolith-Microservices
 	url = https://github.com/eedygreen/Monolith-Microservices.git
+[submodule "Serverless-Fullstack-Application"]
+	path = Serverless-Fullstack-Application
+	url = https://github.com/eedygreen/Serverless-Fullstack-Application.git
