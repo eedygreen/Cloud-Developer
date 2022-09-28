@@ -1,5 +1,5 @@
-# Cloud-Developer-Nanodegree
-AWS Cloud Developer Engineering program with Udacity.
+# Cloud-Developer
+AWS Cloud Developer Engineering.
 The projects on this program are: 
 - Static Website on S3 with Cloudfront to reduce latency
 - Fullstack Application Development on ElasticBeanstalk
