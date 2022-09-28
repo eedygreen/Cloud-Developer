@@ -1,4 +1,4 @@
-# Cloud-Developer
+# Cloud Developer
 AWS Cloud Developer Engineering.
 The projects on this program are: 
 - Static Website on S3 with Cloudfront to reduce latency
